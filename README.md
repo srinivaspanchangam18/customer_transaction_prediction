@@ -103,4 +103,4 @@ This project demonstrates a practical machine learning workflow for analysing cu
 
 **Srinivas Panchangam**
 
-- **LinkedIn:** [Srinivas Panchangam](www.linkedin.com/in/srinivas-panchangam-271a262b4)
+- **LinkedIn:** [Srinivas Panchangam](https://www.linkedin.com/in/srinivas-panchangam-271a262b4/)
